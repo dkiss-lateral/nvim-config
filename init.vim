@@ -1,4 +1,4 @@
-let HOME = 'C:/Users/Daniel Kiss/AppData/Local/nvim'
+let HOME = 'C:/Users/danie/AppData/Local/nvim'
 
 if has('nvim-0.1.5')        " True color in neovim wasn't added until 0.1.5
     set termguicolors
